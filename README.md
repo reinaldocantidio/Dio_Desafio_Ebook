@@ -4,8 +4,7 @@
 
 >>  Ebook criado com auxilio de IA <<
 
-Clique para ler
-[GitHub](https://github.com/reinaldocantidio/Dio_Desafio_Ebook/blob/main/ebook_Alimentos_para_sobrevivencia.pdf)
+Clique para ler (https://github.com/reinaldocantidio/Dio_Desafio_Ebook/blob/main/ebook_Alimentos_para_sobrevivencia.pdf)
 
 
 
