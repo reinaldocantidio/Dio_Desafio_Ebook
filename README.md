@@ -5,6 +5,8 @@
 >>  Ebook criado com auxilio de IA <<
 
 Clique para ler
+[GitHub](https://github.com)
+
 
 
 # Tecnologias utilizadas
